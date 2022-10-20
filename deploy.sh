@@ -10,5 +10,5 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:ginolabiste/weight-tracker-vue.git main
+git push -f git@github.com:ginolabiste/weight-tracker-vue.git main:gh-pages
 cd -
