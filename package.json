@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "sh deploy.sh",
-    "homepage": "https://ginolabiste.github.io/"
+    "deploy": "sh deploy.sh"
   },
   "dependencies": {
     "chart.js": "^3.9.1",
