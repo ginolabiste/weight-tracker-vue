@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "deploy": "sh deploy.sh",
-    "homepage": "https://ginolabiste.github.io/weight-tracker-vue/"
+    "homepage": "https://ginolabiste.github.io/"
   },
   "dependencies": {
     "chart.js": "^3.9.1",
